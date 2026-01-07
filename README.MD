@@ -36,7 +36,7 @@ CAR_PRICE_PREDICTION/
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Car-Price-Prediction.git](https://github.com/YOUR_USERNAME/Car-Price-Prediction.git)
+    git clone [https://github.com/itsabhisingh07/Car-Price-Prediction.git](https://github.com/itsabhisingh07/Car-Price-Prediction.git)
     cd Car-Price-Prediction
     ```
 
