@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction System
+#  Car Price Prediction System
 
 ###  Overview
 This project is a Machine Learning web application that predicts the selling price of used cars based on various features like car model, year of purchase, fuel type, transmission, and kilometers driven.This project dataset is taken from cardekho website.
@@ -12,7 +12,7 @@ The system uses a **Random Forest Regressor** model trained on the Cardekho data
 * **Backend:** Flask (Python)
 * **Machine Learning:** Scikit-Learn, Pandas, NumPy
 * **Model:** Random Forest Regressor (Ensemble Learning)
-* **Persistence:** Pickle (for model serialization)
+
 
 ###  Model Performance
 After experimenting with Linear Regression, KNN, and Decision Trees, **Random Forest** yielded the best results:
