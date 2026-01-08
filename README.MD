@@ -6,7 +6,7 @@ This project is a Machine Learning web application that predicts the selling pri
 The system uses a **Random Forest Regressor** model trained on the Cardekho dataset, achieving an **R² score of 0.94**, ensuring highly accurate price estimations.
 
 ###  Demo
-
+| ![Home Page](img.png) | ![Prediction page](img2.png) |
 ###  Tech Stack
 * **Frontend:** HTML, CSS, Bootstrap 5
 * **Backend:** Flask (Python)
