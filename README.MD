@@ -54,4 +54,4 @@ CAR_PRICE_PREDICTION/
 
 4.  **Open browser**
     Go to `http://127.0.0.1:5000/` to use the predictor.
-## Enter your input and see result ##
+
