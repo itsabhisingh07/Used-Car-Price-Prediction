@@ -3,14 +3,14 @@
 ###  Overview
 This project is a Machine Learning web application that predicts the selling price of used cars based on various features like car model, year of purchase, fuel type, transmission, and kilometers driven.This project dataset is taken from cardekho website.
 
-The system uses a **Random Forest Regressor** model trained on the Cardekho dataset, achieving an **R² score of 0.94**, ensuring highly accurate price estimations.
+The system uses a **Random Forest Regressor** model trained on the Cardekho dataset, achieving an **R² score of 0.94**, ensuring highly accurate price estimations also best among different model of ml tested for this dataset.
 
 ###  Demo
 ![Home Page](img.png) 
 ![Prediction page](img2.png) 
 
 ###  Tech Stack
-* **Frontend:** HTML, CSS, Bootstrap 5
+* **Frontend:** HTML, CSS, Bootstrap 5  # For better interaction with user
 * **Backend:** Flask (Python)
 * **Machine Learning:** Scikit-Learn, Pandas, NumPy
 * **Model:** Random Forest Regressor (Ensemble Learning)
